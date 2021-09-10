@@ -6,11 +6,11 @@ function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Sizebay Frontend Challenge</title>
+        <title>Coodesh Frontend Challenge</title>
         <meta
           author="@SantosMaycon"
           name="description"
-          content="Uma aplicação web que permita ao usuário criar tarefas, acompanhar seu progresso e administrar suas pendências em uma lista, por meio de um layout amigável."
+          content="Uma aplicação web que permite gerenciar usuário, por meio de um layout amigável."
         />
       </Head>
       <GlobalStyles />
