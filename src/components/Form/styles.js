@@ -9,10 +9,15 @@ export const Form = styled.form`
 `
 
 export const GroupInput = styled.div`
+  @media (max-width: 600px) {
+    width: 100%;
+  }
+
   & > input {
     width: 100%;
     height: 4rem;
     padding: 1rem;
+    background-color: transparent;
     border: 0.1rem solid transparent;
     border-radius: 0.4rem;
     outline: none;
@@ -29,6 +34,7 @@ export const GroupInput = styled.div`
 
 export const Select = styled.select`
   padding: 0 0.6rem;
+  background-color: transparent;
   border: 0.1rem solid transparent;
   border-radius: 0.4rem;
   outline: none;
