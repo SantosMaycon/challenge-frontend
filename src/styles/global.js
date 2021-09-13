@@ -10,6 +10,7 @@ const GlobalStyles = createGlobalStyle`
     font-size: 62.5%;
   }
   body {
+    background-color: #f6f6f6;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
   }
 `
