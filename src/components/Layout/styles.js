@@ -108,6 +108,7 @@ export const Table = styled.table`
   & th,
   & td {
     padding: 16px 15px;
+    width: 33.3333333333%;
   }
 `
 export const Button = styled.button`
