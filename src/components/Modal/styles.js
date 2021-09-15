@@ -20,6 +20,8 @@ export const Modal = styled.div`
   min-height: 35rem;
   margin: 10rem 1rem 0 1rem;
   background-color: #ffffff;
+  border-radius: 0.4rem;
+  box-shadow: rgb(0 0 0 / 37%) 0px 1px 4px 0px;
 `
 
 export const Image = styled.img`
